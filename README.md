@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm [Kamil], a Web developer based in Poland 
+I'm Kamil, a Web developer based in Poland 
 
 I build whatever comes to my mind.
 
