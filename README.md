@@ -1,7 +1,10 @@
 ## Hi there 👋
-I'm Kamil, a Web developer based in Poland
+I'm [Kamil], a Web developer based in Poland 
+
 I build whatever comes to my mind.
+
 If an idea pops into my head, chances are i'll build it and ship it.
+
 My main tech stack is Next.js, Typescript, Tailwind, GSAP.
 
 I'm also interested in learning Python and Cybersecurity.
