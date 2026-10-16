@@ -1,27 +1,39 @@
-## Hi there 👋
-I'm Kamil, a Web developer based in Poland 
+# Hi, I'm Kamil
 
-I build whatever comes to my mind.
+Computer Science undergraduate at the **[University of Wrocław (II UWr)](https://ii.uni.wroc.pl)** (B.Eng. program).  
+Focusing on core programming, algorithmic problem-solving, and hands-on offensive/defensive security fundamentals.
 
-If an idea pops into my head, chances are i'll build it and ship it.
+---
 
-My main tech stack is Next.js, Typescript, Tailwind, GSAP.
+### 📚 Academic Coursework (Semester 1)
 
-I'm also interested in learning Python and Cybersecurity.
+* **[`uwr-python-coursework`](https://github.com/KamilMONTANA/uwr-python-coursework)**  
+  Programming assignments, algorithms, and practical projects from the *Introduction to Programming in Python* course at II UWr.
 
+---
 
+### ⚡ Problem Solving & Algorithms
 
-<!--
-**KamilMONTANA/KamilMONTANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **[`leetcode-solutions`](https://github.com/KamilMONTANA/leetcode-solutions)**  
+  Daily algorithmic problem solving in Python (Data Structures, Two Pointers, Sliding Window, Trees, Dynamic Programming). Automatically tracked and synced.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Security Writeups & Practical Labs
+
+Each platform and environment is documented in its own dedicated repository:
+
+| Repository | Scope / Focus | Key Concepts & Tools |
+| :--- | :--- | :--- |
+| **[`overthewire-bandit`](https://github.com/KamilMONTANA/overthewire-bandit)** | Linux command-line fundamentals & shell wargames | Bash, streams (`stdin`/`stdout`), SSH, piping, `find`, grep, file permissions |
+| **[`picoctf-writeups`](https://github.com/KamilMONTANA/picoctf-writeups)** | CTF challenge solutions & solve scripts | Web exploitation, basic cryptography, string extraction, forensics |
+| **[`htb-writeups`](https://github.com/KamilMONTANA/htb-writeups)** | Methodology and walkthroughs for **retired** HTB machines | Network reconnaissance (Nmap), enumeration, privilege escalation |
+| **[`tcm-ad-homelab`](https://github.com/KamilMONTANA/tcm-ad-homelab)** | Virtualized Active Directory security lab (*TCM PEH*) | Windows Server 2022, Kerberoasting, AS-REP Roasting, Responder, BloodHound |
+
+---
+
+### 🔗 Profiles & Writeups Hub
+
+- **Website & Writeups Reader:** [https://kamilmontana.github.io](https://kamilmontana.github.io)
+- **HackTheBox:** [app.hackthebox.com](https://app.hackthebox.com)
+- **LeetCode:** [leetcode.com/u/KamilMONTANA](https://leetcode.com/u/KamilMONTANA/)
